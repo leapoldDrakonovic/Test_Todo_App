@@ -1,0 +1,11 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "ToDo_App for test ",
+  "main": "index.js",
+  "scripts": {
+    "run": ""
+  },
+  "author": "Egor",
+  "license": "ISC"
+}

@@ -1,0 +1,22 @@
+.label {
+    margin-bottom: 10px;
+}
+
+.input {
+    width: 100%;
+    outline: none;
+    border: 1px solid rgb(148, 148, 148);
+
+}
+
+.input:focus {
+    border: 1px solid rgb(88, 255, 102);
+}
+
+.textarea {
+    width: 100%;
+    outline: none;
+    border: 1px solid rgb(148, 148, 148);
+    resize: none;
+    height: 120px;
+}
